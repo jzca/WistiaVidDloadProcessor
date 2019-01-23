@@ -17,4 +17,6 @@ const findTheString2 = (arr) => {
 	return newOut;
 }
 
-console.log(findTheString2(inputSamples));
+findTheString2(inputSamples)
+
+// For NodeJS console.log(findTheString2(inputSamples));
